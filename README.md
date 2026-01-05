@@ -30,5 +30,5 @@ Candidates can fork the repo and submit solutions.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/shristi-singh-rajput-45182b1ba/
 - Email: Shristi.s.rajput@proffer.in
